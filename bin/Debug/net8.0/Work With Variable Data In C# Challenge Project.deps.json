@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Work With Variable Data In C# Challenge Project/1.0.0": {
+        "runtime": {
+          "Work With Variable Data In C# Challenge Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Work With Variable Data In C# Challenge Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

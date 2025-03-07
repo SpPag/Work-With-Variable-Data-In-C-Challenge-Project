@@ -1,0 +1,14 @@
+C:\Coding\Practice\Work With Variable Data In C# Challenge Project\bin\Debug\net8.0\Work With Variable Data In C# Challenge Project.exe
+C:\Coding\Practice\Work With Variable Data In C# Challenge Project\bin\Debug\net8.0\Work With Variable Data In C# Challenge Project.deps.json
+C:\Coding\Practice\Work With Variable Data In C# Challenge Project\bin\Debug\net8.0\Work With Variable Data In C# Challenge Project.runtimeconfig.json
+C:\Coding\Practice\Work With Variable Data In C# Challenge Project\bin\Debug\net8.0\Work With Variable Data In C# Challenge Project.dll
+C:\Coding\Practice\Work With Variable Data In C# Challenge Project\bin\Debug\net8.0\Work With Variable Data In C# Challenge Project.pdb
+C:\Coding\Practice\Work With Variable Data In C# Challenge Project\obj\Debug\net8.0\Work With Variable Data In C# Challenge Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Practice\Work With Variable Data In C# Challenge Project\obj\Debug\net8.0\Work With Variable Data In C# Challenge Project.AssemblyInfoInputs.cache
+C:\Coding\Practice\Work With Variable Data In C# Challenge Project\obj\Debug\net8.0\Work With Variable Data In C# Challenge Project.AssemblyInfo.cs
+C:\Coding\Practice\Work With Variable Data In C# Challenge Project\obj\Debug\net8.0\Work With Variable Data In C# Challenge Project.csproj.CoreCompileInputs.cache
+C:\Coding\Practice\Work With Variable Data In C# Challenge Project\obj\Debug\net8.0\Work With Variable Data In C# Challenge Project.dll
+C:\Coding\Practice\Work With Variable Data In C# Challenge Project\obj\Debug\net8.0\refint\Work With Variable Data In C# Challenge Project.dll
+C:\Coding\Practice\Work With Variable Data In C# Challenge Project\obj\Debug\net8.0\Work With Variable Data In C# Challenge Project.pdb
+C:\Coding\Practice\Work With Variable Data In C# Challenge Project\obj\Debug\net8.0\Work With Variable Data In C# Challenge Project.genruntimeconfig.cache
+C:\Coding\Practice\Work With Variable Data In C# Challenge Project\obj\Debug\net8.0\ref\Work With Variable Data In C# Challenge Project.dll

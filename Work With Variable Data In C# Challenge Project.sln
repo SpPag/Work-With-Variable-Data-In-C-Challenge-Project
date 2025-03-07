@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Work With Variable Data In C# Challenge Project", "Work With Variable Data In C# Challenge Project.csproj", "{3ACAE2F0-FDC3-401B-88A2-6BCF1B7FECF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ACAE2F0-FDC3-401B-88A2-6BCF1B7FECF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ACAE2F0-FDC3-401B-88A2-6BCF1B7FECF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ACAE2F0-FDC3-401B-88A2-6BCF1B7FECF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ACAE2F0-FDC3-401B-88A2-6BCF1B7FECF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8160565-FA23-4740-8F2B-2EA21B1CD175}
+	EndGlobalSection
+EndGlobal
